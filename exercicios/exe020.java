@@ -10,7 +10,7 @@ public class exe020 {
         int soma;
         int sub;
 
-        System.out.println("%n Digite o primeiro valor:");
+        System.out.println("\n Digite o primeiro valor:");
         numero1=sc.nextInt();
         System.out.println("Digite o segundo valor: ");
         numero2=sc.nextInt();
@@ -20,14 +20,12 @@ public class exe020 {
         multi=numero1*numero2;
         divi=numero1/numero2;
 
-        System.out.printf( "A soma do %d + %d = %d/n", numero1, numero2, soma);
-        System.out.printf( "A subtração do %d + %d = %d /n", numero1, numero2, sub);
-        System.out.printf( "A multiplicação do %d + %d = %d /n", numero1, numero2, multi);
-        System.out.printf( "A divisão do %i + %d = %d /n", numero1, numero2, divi);
-
+        System.out.printf( "A soma do %d + %d = %d\n", numero1, numero2, soma);
+        System.out.printf( "A subtração do %d - %d = %d \n", numero1, numero2, sub);
+        System.out.printf( "A multiplicação do %d * %d = %d \n", numero1, numero2, multi);
+        System.out.printf( "A multiplicação do %d / %d = %d \n", numero1, numero2, divi);
 
 
 
     }
-
 }
