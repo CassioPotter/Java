@@ -7,6 +7,9 @@ public class aula088_vetores {
         int n=sc.nextInt();
         double[] vect = new double[n];
 
+        for (int i = 0; i<n; i++ ){
+            vect [i] = sc.nextDouble() // vai recebendo o que o usuario digitar criando um vetor de n lugares
+        }
 
         sc.close();
     }
