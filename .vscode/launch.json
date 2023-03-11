@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aula097_listas",
+            "request": "launch",
+            "mainClass": "aula097_listas",
+            "projectName": "Java_94cc9506"
+        },
+        {
+            "type": "java",
             "name": "aula088_vetores",
             "request": "launch",
             "mainClass": "aula088_vetores",
