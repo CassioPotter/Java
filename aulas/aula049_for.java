@@ -18,7 +18,7 @@ public class aula049_for {
         }
         System.out.println("Você digitou "+n+" valores e a sua soma deu "+soma);
 
-
+        sc.close();
 
     }
     
