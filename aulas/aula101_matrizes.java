@@ -8,7 +8,9 @@ public class aula101_matrizes {
         int [][] mat = new int [n] [n]; //n vai entra nas matrizes
 
         for (int x = 0; x < n; x++){
-            
+            for (int y = 0; y < n; y++){
+                mat [x][y] = sc.nextInt();
+            }
         }
 
         sc.close();
