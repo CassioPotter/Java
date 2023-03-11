@@ -18,5 +18,6 @@ public class aula044_while{
             
         }
         System.out.printf("A soma dos valores deu %d", soma);
+        sc.close();
     }
 }
