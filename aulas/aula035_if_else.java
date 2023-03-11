@@ -18,6 +18,7 @@ public class aula035_if_else {
         else{
             System.out.println("Boa noite");
         }
+        sc.close();
     }
     
 
