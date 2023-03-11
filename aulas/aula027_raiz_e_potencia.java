@@ -18,7 +18,7 @@ public class aula027_raiz_e_potencia {
         System.out.printf("A raiz de %.2f é %.2f ",numero, a);
         System.out.printf("O valor %.2f ao quadrado é %.2f",numero, b);
 
-
+        sc.close();
 
 
 
