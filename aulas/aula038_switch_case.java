@@ -44,6 +44,6 @@ public class aula038_switch_case {
             break;
         }
          System.out.println("Hoje é dia "+dia);
-
+        sc.close();
     }
 }
