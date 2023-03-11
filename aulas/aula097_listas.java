@@ -16,7 +16,9 @@ public class aula097_listas {
         System.out.println("\n");
         for (Integer x : list){
             System.out.println(x);
+        
         }
+        sc.close();
 
 
 
