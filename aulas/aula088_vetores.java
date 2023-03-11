@@ -10,7 +10,7 @@ public class aula088_vetores {
 
         for (int i = 0; i<n; i++ ){
             vect [i] = sc.nextDouble(); // vai recebendo o que o usuario digitar criando um vetor de n lugares
-            soma += vect[i];
+            soma = soma + vect[i];
         }
 
         System.out.println("A soma dos vetores deu "+ soma);
