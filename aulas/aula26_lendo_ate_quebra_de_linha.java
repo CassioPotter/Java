@@ -13,7 +13,7 @@ public class aula26_lendo_ate_quebra_de_linha {
 
 
 
-
+        sc.close();
 
 
 
