@@ -29,7 +29,7 @@ public class aula025 {
         System.out.println(letra);
 
 
-
+        sc.close();
         
         
     }
