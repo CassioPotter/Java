@@ -12,6 +12,14 @@ public class aula101_matrizes {
                 mat [x][y] = sc.nextInt();
             }
         }
+        for (int x = 0; x < n; x++){
+            for (int y = 0; y < n; y++){
+                System.out.println(mat [x][y]);
+            }
+        }
+        
+    
+
 
         sc.close();
     }
