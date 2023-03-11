@@ -19,5 +19,6 @@ public class aula058_string {
 		System.out.println(s3);
 		System.out.println(s4);
 		
+		sc.close();
 	}
 }
