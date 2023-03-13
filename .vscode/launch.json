@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aula106_data_hora",
+            "request": "launch",
+            "mainClass": "aula106_data_hora",
+            "projectName": "Java_94cc9506"
+        },
+        {
+            "type": "java",
             "name": "aula101_matrizes",
             "request": "launch",
             "mainClass": "aula101_matrizes",
