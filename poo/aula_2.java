@@ -1,5 +1,3 @@
-package poo;
-
 public class aula_2 {
     public static void main(String[] args) {
         
@@ -9,7 +7,7 @@ public class aula_2 {
         c1.ponta = 0.5f;
         c1.tampada = false;
 
-        
+
     }
     
 }
