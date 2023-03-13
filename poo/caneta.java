@@ -6,4 +6,18 @@ public class caneta {
     float ponta;
     int carga;
     boolean tampada;
+
+    void status(){
+        
+    }
+
+    void rabiscar(){
+
+    }
+    void tampar (){
+
+    }
+    void destampar(){
+
+    }
 }
