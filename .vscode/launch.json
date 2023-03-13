@@ -8,6 +8,13 @@
             "type": "java",
             "name": "aula_2",
             "request": "launch",
+            "mainClass": "aula_2",
+            "projectName": "Java_94cc9506"
+        },
+        {
+            "type": "java",
+            "name": "aula_2",
+            "request": "launch",
             "mainClass": "poo.aula_2",
             "projectName": "Java_94cc9506"
         },
