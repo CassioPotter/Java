@@ -16,6 +16,6 @@ public class aula106_data_hora {
 
         //data hora global gnt
         Instant d03 = Instant.now();
-        sysout
+        System.out.println(d03);
     }
 }
